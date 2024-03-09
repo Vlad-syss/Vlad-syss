@@ -1,4 +1,4 @@
-![alt](https://bit.ly/33B4VxM "shih-tzu")
+![alt](github-header-image.png "shih-tzu")
 
 # 👋 Hello there! I'm Vladislav Bashak
 
