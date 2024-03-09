@@ -5,6 +5,8 @@
 ![portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Portfolio&logoColor=white)
 ![telegram](https://img.shields.io/badge/Telegram-0e76a8?style=for-the-badge&logo=Telegram&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <!--
 **Vlad-syss/Vlad-syss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
