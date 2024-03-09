@@ -5,6 +5,11 @@
 ![portfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Portfolio&logoColor=white)
 ![telegram](https://img.shields.io/badge/Telegram-0e76a8?style=for-the-badge&logo=Telegram&logoColor=white)
 
+Frontend Developer from Ukraine.
+
+* I develop for all platforms using Typescript/Javascript
+* Lets talk more in ["Telegram"][https://t.me/VladBashak]
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vlad-syss)](https://git.io/streak-stats)
 
 <!--
