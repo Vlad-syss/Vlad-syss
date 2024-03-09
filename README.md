@@ -28,3 +28,5 @@ Frontend Developer from Ukraine 🥏
 
 ## My Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vlad-syss)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad-syss)](https://github.com/Vlad-syss/github-readme-stats)
+
