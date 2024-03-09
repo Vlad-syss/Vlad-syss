@@ -8,7 +8,7 @@
 Frontend Developer from Ukraine.
 
 * I develop for all platforms using Typescript/Javascript
-* Lets talk more in ["Telegram"][https://t.me/VladBashak]
+* Lets talk more in [Telegram](https://t.me/VladBashak)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vlad-syss)](https://git.io/streak-stats)
 
