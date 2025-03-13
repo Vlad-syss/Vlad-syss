@@ -27,6 +27,6 @@ Frontend Developer from Ukraine 🥏
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ## My Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vlad-syss)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vlad-syss)](https://github.com/Vlad-syss/github-readme-stats)
 
